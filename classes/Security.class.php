@@ -5,7 +5,6 @@ class Security
 	private $weight		= 5242880;
 	private $extensions	= array('png', 'PNG');
 	private $size		= array('width' => 2048, 'height' => 2048);
-	private $resolution	= 72;
 
 	private $identifier;
 

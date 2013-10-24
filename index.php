@@ -30,21 +30,26 @@
   <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <a class="navbar-brand" href="http://code.desweb-creation.fr/app-icon/">Icônes mobile</a>
+        <a class="navbar-brand" href="http://code.desweb-creation.fr/app-icon/">Ic&ocirc;nes mobile</a>
         <a class="navbar-brand" href="http://code.desweb-creation.fr/app-launcher/">Ecrans de lancement mobile</a>
+      </div>
+      <div class="navbar-collapse collapse" id="navbar-main">
+        <div class="nav navbar-nav navbar-right">
+          <img style="margin-top:10px;" src="https://insight.sensiolabs.com/projects/7f603b2c-6499-44ba-8b0a-789a733dd5ed/small.png" alt="Insight Sensiolab Medal"/>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="jumbotron">
     <div class="container">
-      <h1>Génération d'écrans de lancement pour application mobile <sup>bêta</sup></h1>
+      <h1>G&eacute;n&eacute;ration d'&eacute;crans de lancement pour application mobile <sup>b&ecirc;ta</sup></h1>
 
       <p>
-        1. Glissez/déposez votre écran de lancement<br />
+        1. Glissez/d&eacute;posez votre &eacute;cran de lancement<br />
         2. Patientez quelques instants<br />
-        3. Téléchargez votre fichier zip<br />
-        4. Disposez de tous les écrans de lancement dont vous aurez besoin pour votre application mobile iPhone & Android
+        3. T&eacute;l&eacute;chargez votre fichier zip<br />
+        4. Disposez de tous les &eacute;crans de lancement dont vous aurez besoin pour votre application mobile iPhone & Android
       </p>
       <p><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LaunchImages.html" target="_blank">Documentation iOS</a></p>
       <p><a href="http://developer.android.com/guide/practices/screens_support.html" target="_blank">Documentation Android</a></p>
@@ -56,11 +61,11 @@
       <img src="images/loader.gif"/> Chargement...
     </div>
     <div class="alert alert-success" id="upload_success">
-      Création des écrans de lancement effectués avec succès.<br />
-      <a href="#" target="_blank" id="zip_link">Télécharger mes écrans de lancement</a>
+      Cr&eacute;ation des &eacute;crans de lancement effectu&eacute;s avec succ&egrave;s.<br />
+      <a href="#" target="_blank" id="zip_link">T&eacute;l&eacute;charger mes &eacute;crans de lancement</a>
     </div>
     <div class="alert alert-danger" id="upload_failed">
-      Erreur lors de l'envoi de l'icône.
+      Erreur lors de l'envoi de l'icÃ´ne.
     </div>
     <div class="alert alert-danger" id="file_error">
       Attention, votre image ne respecte pas les conditions requises :
@@ -68,7 +73,7 @@
         <li>Poids maximum : 5Mo</li>
         <li>Format : PNG</li>
         <li>Dimensions : 2048px * 2048px</li>
-        <li>Résolution : 72dpi</li>
+        <li>R&eacute;solution : 72dpi</li>
       </ul>
     </div>
 
