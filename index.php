@@ -9,7 +9,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-  <link rel="shortcut icon" href="http://desweb-creation.fr/site/wp-content/themes/desweb_creation/favicon.ico">
+  <link rel="shortcut icon" href="favicon.ico">
 
   <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="css/jumbotron.css" rel="stylesheet">
